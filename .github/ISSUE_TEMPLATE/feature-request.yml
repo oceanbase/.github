@@ -1,0 +1,25 @@
+name: Feature Request
+description: Request for a new feature.
+title: "[Feat.]: "
+labels: ["enhancement"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Check Before Asking
+      options:
+        - label: Please check the issue list and confirm this feature is encountered for the first time.
+          required: true
+        - label: Please try full text in English and attach precise description.
+          required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: A full description of the feature and provide some example if the same feature exists in other products.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Other Information
+    validations:
+      required: false

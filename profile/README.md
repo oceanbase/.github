@@ -17,9 +17,14 @@ In addition to the database kernel, there are also many tools in the OceanBase c
 
 ### Get in touch
 
+International Community (English)
+
 - GitHub: [Issues](https://github.com/oceanbase/oceanbase/issues) [Discussions](https://github.com/oceanbase/oceanbase/discussions)
-- Forum（简体中文）: https://ask.oceanbase.com
-- WeChat Bot: OBCE666
-- DingTalk Group: 33254054
 - Slack Channel: https://oceanbase.slack.com [[join]](https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw)
 - Mailing List: open_contact@oceanbase.com
+
+中文社区：
+
+- 官方论坛： https://ask.oceanbase.com
+- 微信小助手：OBCE666
+- 钉钉群：33254054

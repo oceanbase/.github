@@ -15,7 +15,7 @@ We have open sourced several million lines of OceanBase database kernel code and
 
 In addition to the database kernel, we also provide many tools for users, all of which can be found at the GitHub or [software center](https://en.oceanbase.com/softwarecenter).
 
-##### Database Management
+#### Database Management
 
 Open source projects:
 
@@ -27,7 +27,7 @@ Community tools:
 
 - OCP CE: The community edition of [OCP](https://www.oceanbase.com/en/product/ocp), a cluster management platform for OceanBase CE.
 
-##### Drivers and Clients
+#### Drivers and Clients
 
 Open source projects:
 
@@ -43,7 +43,7 @@ Community tools:
 
 - ODC CE: The community edition of [ODC](https://www.oceanbase.com/en/product/odc), a development platform tailored for OceanBase CE.
 
-##### Data Integration and Data Migration
+#### Data Integration and Data Migration
 
 Open source projects:
 
@@ -51,27 +51,42 @@ Open source projects:
 - [oblogproxy](https://github.com/oceanbase/oblogproxy): A proxy server based on [oblogmsg](https://github.com/oceanbase/oblogmsg), can be used to get commit log data with [oblogclient](https://github.com/oceanbase/oblogclient).
 - [oblogclient](https://github.com/oceanbase/oblogclient): A Java library to get commit log data from OceanBase.
 - [canal](https://github.com/oceanbase/canal): A fork of [alibaba/canal](https://github.com/alibaba/canal), can be used to fetch the in-time change events from OceanBase.
-- [flink-connector-oceanbase](https://github.com/oceanbase/flink-connector-oceanbase): The Apache Flink sink connector for OceanBase.
+- [flink-connector-oceanbase](https://github.com/oceanbase/flink-connector-oceanbase): A sink connector of Apache Flink for OceanBase.
 
 Community tools:
 
 - OceanBase Loader and Dumper: Data export tool tailored for OceanBase CE.
 - OMS CE: The community edition of [OMS](https://www.oceanbase.com/en/product/oms), a data migration tool for OceanBase CE and heterogeneous MySQL database.
 
-##### Database Monitoring and Diagnostics
+#### Database Monitoring and Diagnostics
 
 Open source projects:
 
 - [oceanbase-diagnostic-tool](https://github.com/oceanbase/oceanbase-diagnostic-tool): A diagnostic toolkit for OceanBase.
 - [obagent](https://github.com/oceanbase/obagent): A monitor collection framework for OceanBase.
 
-##### Testing
+#### Testing
 
 Open source projects:
 
 - [sqlsmith](https://github.com/oceanbase/sqlsmith): A fork of [anse1/sqlsmith](https://github.com/anse1/sqlsmith), a random SQL query generator.
 - [sqlancer](https://github.com/oceanbase/sqlancer): A fork of [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer), can be used to detect Logic Bugs in DBMS.
 
-##### Documentation
+#### Documentation
 
 You can find all documentation repositories at https://github.com/orgs/oceanbase/repositories?q=doc . If you have any questions about the content, welcome to raise an issue or a pull request for it on the repository directly.
+
+#### Ecosystem Projects
+
+The OceanBase community provides many solutions together with other communities and partners, such as [CloudCanal](https://www.clougence.com/cloudcanal), [Flink CDC](https://github.com/ververica/flink-cdc-connectors) and [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) etc.
+
+We will launch a repository for ecosystem projects on GitHub in the near future, and welcome more communities and developers to join our ecosystem, we can do some cool stuff together!
+
+### Get in Touch
+
+- GitHub: [Issues](https://github.com/oceanbase/oceanbase/issues) [Discussions](https://github.com/oceanbase/oceanbase/discussions)
+- Forum: https://ask.oceanbase.com
+- WeChat Bot: OBCE666
+- DingTalk Group: 33254054
+- Slack Channel: https://oceanbase.slack.com [[join]](https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw)
+- Mailing List: open_contact@oceanbase.com [[post]](mailto:open_contact@oceanbase.com)

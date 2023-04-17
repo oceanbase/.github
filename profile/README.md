@@ -13,7 +13,7 @@ We have open sourced several million lines of OceanBase database kernel code and
 - [https://github.com/oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)
 - [https://github.com/oceanbase/oceanbase-doc](https://github.com/oceanbase/oceanbase-doc)
 
-In addition to the database kernel, we also provide many tools for users, all of which can be found at the GitHub or [software center](https://en.oceanbase.com/softwarecenter).
+In addition to the database kernel, we also provide many tools for users, all of which can be found on GitHub or [software center](https://en.oceanbase.com/softwarecenter).
 
 #### Database Management
 
@@ -80,7 +80,7 @@ You can find all documentation repositories at https://github.com/orgs/oceanbase
 
 The OceanBase community provides many solutions together with other communities and partners, such as [CloudCanal](https://www.clougence.com/cloudcanal), [Flink CDC](https://github.com/ververica/flink-cdc-connectors) and [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) etc.
 
-We will launch a repository for ecosystem projects on GitHub in the near future, and welcome more communities and developers to join our ecosystem, we can do some cool stuff together!
+We will create new repository to collect all the information about ecosystem projects on GitHub in the near future, and welcome more communities and developers to join our ecosystem. Let's do some cool stuff together!
 
 ### Get in Touch
 
@@ -89,4 +89,4 @@ We will launch a repository for ecosystem projects on GitHub in the near future,
 - WeChat Bot: OBCE666
 - DingTalk Group: 33254054
 - Slack Channel: https://oceanbase.slack.com [[join]](https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw)
-- Mailing List: open_contact@oceanbase.com [[post]](mailto:open_contact@oceanbase.com)
+- Mailing List: open_contact@oceanbase.com

@@ -85,7 +85,7 @@ We will create new repository to collect all the information about ecosystem pro
 ### Get in touch
 
 - GitHub: [Issues](https://github.com/oceanbase/oceanbase/issues) [Discussions](https://github.com/oceanbase/oceanbase/discussions)
-- Forum: https://ask.oceanbase.com
+- Forum（简体中文）: https://ask.oceanbase.com
 - WeChat Bot: OBCE666
 - DingTalk Group: 33254054
 - Slack Channel: https://oceanbase.slack.com [[join]](https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw)

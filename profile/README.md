@@ -8,20 +8,24 @@ For more information about OceanBase CE, please visit our [homepage](https://ope
 
 ### Get started with OceanBase
 
+There are many projects in the OceanBase community, all of which can be found on GitHub or [software center](https://en.oceanbase.com/softwarecenter).
+
+#### OceanBase Kernel
+
 We have open sourced several million lines of OceanBase database kernel code and corresponding documents:
 
 - [https://github.com/oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)
 - [https://github.com/oceanbase/oceanbase-doc](https://github.com/oceanbase/oceanbase-doc)
 
-In addition to the database kernel, we also provide many tools for users, all of which can be found on GitHub or [software center](https://en.oceanbase.com/softwarecenter).
-
-#### Database Management
+#### Database Management and Monitoring
 
 Open source projects:
 
 - [obdeploy](https://github.com/oceanbase/obdeploy): A deployer and package manager for OceanBase.
 - [obproxy](https://github.com/oceanbase/obproxy): A proxy server for OceanBase Database.
 - [ob-operator](https://github.com/oceanbase/ob-operator): A Kubernetes operator for OceanBase Database.
+- [obagent](https://github.com/oceanbase/obagent): A monitor collection framework for OceanBase.
+- [oceanbase-diagnostic-tool](https://github.com/oceanbase/oceanbase-diagnostic-tool): A diagnostic toolkit for OceanBase.
 
 Community tools:
 
@@ -58,19 +62,15 @@ Community tools:
 - OceanBase Loader and Dumper: Data export tool tailored for OceanBase CE.
 - OMS CE: The community edition of [OMS](https://www.oceanbase.com/en/product/oms), a data migration tool for OceanBase CE and heterogeneous MySQL database.
 
-#### Database Monitoring and Diagnostics
-
-Open source projects:
-
-- [oceanbase-diagnostic-tool](https://github.com/oceanbase/oceanbase-diagnostic-tool): A diagnostic toolkit for OceanBase.
-- [obagent](https://github.com/oceanbase/obagent): A monitor collection framework for OceanBase.
-
 #### Testing
-
-Open source projects:
 
 - [sqlsmith](https://github.com/oceanbase/sqlsmith): A fork of [anse1/sqlsmith](https://github.com/anse1/sqlsmith), a random SQL query generator.
 - [sqlancer](https://github.com/oceanbase/sqlancer): A fork of [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer), can be used to detect Logic Bugs in DBMS.
+
+#### Demonstration
+
+- [ob-example](https://github.com/oceanbase/ob-example): A collection of examples to work with OceanBase.
+- [miniob](https://github.com/oceanbase/miniob): An educational database project helping developers to learn how database works.
 
 #### Documentation
 
@@ -82,7 +82,7 @@ The OceanBase community provides many solutions together with other communities 
 
 We will create new repository to collect all the information about ecosystem projects on GitHub in the near future, and welcome more communities and developers to join our ecosystem. Let's do some cool stuff together!
 
-### Get in Touch
+### Get in touch
 
 - GitHub: [Issues](https://github.com/oceanbase/oceanbase/issues) [Discussions](https://github.com/oceanbase/oceanbase/discussions)
 - Forum: https://ask.oceanbase.com

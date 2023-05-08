@@ -2,7 +2,7 @@
 
 ![OceanBase Logo](https://raw.githubusercontent.com/oceanbase/oceanbase/master/images/logo.svg)
 
-OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. It was born in 2010, and the OceanBase CE (Community Edition) was open sourced on June 1st, 2021.
+OceanBase is a distributed relational database. It is developed entirely by Ant Group. Based on the [Paxos](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) protocol and its distributed structure, OceanBase provides high availability and linear scalability. OceanBase is not dependent on specific hardware architectures.
 
 For more information about OceanBase, please visit our [website](https://en.oceanbase.com/).
 
@@ -13,7 +13,7 @@ We have open sourced several million lines of OceanBase database kernel code and
 - [https://github.com/oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)
 - [https://github.com/oceanbase/oceanbase-doc](https://github.com/oceanbase/oceanbase-doc)
 
-In addition to the database kernel, there are also many tools in the OceanBase community, all of which can be found on GitHub or [software center](https://en.oceanbase.com/softwarecenter). You can see [here](projects.md) for more details.
+In addition to the database kernel, there are also many tools in the OceanBase community, all of which can be found on GitHub or [software center](https://en.oceanbase.com/softwarecenter). You can see [projects document](projects.md) for more details.
 
 ### Get in touch
 

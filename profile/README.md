@@ -1,6 +1,6 @@
 ### Hey, this is OceanBase 👋 
 
-![OceanBase Logo](../images/logo-horizontal.png)
+![OceanBase Logo](https://raw.githubusercontent.com/oceanbase/oceanbase/master/images/logo.svg)
 
 OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. It was born in 2010, and the OceanBase CE (Community Edition) was open sourced on June 1st, 2021.
 
@@ -27,5 +27,5 @@ Chinese Community (中文社区)：
 
 - Community Website（社区官网）：https://open.oceanbase.com
 - Forum (论坛): https://ask.oceanbase.com
-- DingTalk Group (钉钉群): 33254054 [[QR Code]](https://github.com/oceanbase/oceanbase/blob/master/images/dingtalk.svg)
+- DingTalk Group (钉钉群): 33254054 [[QR Code]](https://raw.githubusercontent.com/oceanbase/oceanbase/master/images/dingtalk.svg)
 - WeChat Group (微信群): Join via our WeChat bot (添加小助手账号加入) `OBCE666`

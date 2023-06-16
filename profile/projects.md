@@ -23,6 +23,7 @@ Open source projects:
 - [obconnector-c](https://github.com/oceanbase/obconnector-c): A C driver used to connect to OceanBase Database.
 - [obconnector-j](https://github.com/oceanbase/obconnector-j): A JDBC driver used to connect to OceanBase Database, also known as `oceanbase-client`.
 - [obkv-table-client-java](https://github.com/oceanbase/obkv-table-client-java): A Java Library that can be used to access table data from OceanBase storage layer.
+- [obkv-table-client-go](https://github.com/oceanbase/obkv-table-client-go): A Go Library that can be used to access table data from OceanBase storage layer.
 - [obkv-table-client-rs](https://github.com/oceanbase/obkv-table-client-rs): A Rust Library that can be used to access table data from OceanBase storage layer.
 - [obkv-hbase-client-java](https://github.com/oceanbase/obkv-hbase-client-java): A Java Library that can be used to access data from OceanBase by HBase-0.94 API.
 

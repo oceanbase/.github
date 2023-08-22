@@ -1,0 +1,38 @@
+name: 🚀 Feature Request
+description: I want a new feature for this project
+title: "[Feature]: <title>"
+labels: [ "type: feature" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this issue is encountered for the first time. You can replace the `<title>` field with your description. 
+        
+        Thank you very much for your feedback!
+  - type: textarea
+    attributes:
+      label: Describe your use case
+      description: A clear and concise description of your intended usage scenario.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the feature request here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: Thanks for completing our form!

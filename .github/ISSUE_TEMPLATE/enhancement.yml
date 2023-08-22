@@ -1,0 +1,20 @@
+name: 🌟 Enhancement
+description: I want an enhancement for this project
+title: "[Enhancement]: <title>"
+labels: ["type: enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this issue is encountered for the first time. You can replace the `<title>` field with your description. 
+        
+        Thank you very much for your feedback!
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Thanks for completing our form!

@@ -1,12 +1,12 @@
 name: 📑 Documentation Related
 description: Suggest an improvement or report a bug for the documentation.
-title: "[Doc]: <title>"
+title: "[Doc]: "
 labels: [ "type: documentation" ]
 body:
   - type: markdown
     attributes:
       value: |
-        Please make sure this issue is encountered for the first time. You can replace the `<title>` field with your description. 
+        Please make sure this issue is encountered for the first time.
         
         Thank you very much for your feedback!
   - type: textarea

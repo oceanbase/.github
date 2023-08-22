@@ -1,12 +1,12 @@
 name: 🚀 Feature Request
 description: I want a new feature for this project
-title: "[Feature]: <title>"
+title: "[Feature]: "
 labels: [ "type: feature" ]
 body:
   - type: markdown
     attributes:
       value: |
-        Please make sure this issue is encountered for the first time. You can replace the `<title>` field with your description. 
+        Please make sure this issue is encountered for the first time.
         
         Thank you very much for your feedback!
   - type: textarea

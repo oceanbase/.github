@@ -1,12 +1,12 @@
 name: 🙋 Question
 description: I have a question.
-title: "[Question]: <title>"
+title: "[Question]: "
 labels: [ "type: question" ]
 body:
   - type: markdown
     attributes:
       value: |
-        Please make sure this issue is encountered for the first time. You can replace the `<title>` field with your description. 
+        Please make sure this issue is encountered for the first time.
         
         If the question is concise and probably has a short answer, asking it in [community Slack](https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw).
   - type: textarea

@@ -1,12 +1,12 @@
 name: 🐞 Bug Report
 description: Create a report to help us improve
-title: "[Bug]: <title>"
+title: "[Bug]: "
 labels: [ "type: bug" ]
 body:
   - type: markdown
     attributes:
       value: |
-        Please make sure this issue is encountered for the first time. You can replace the `<title>` field with your description. 
+        Please make sure this issue is encountered for the first time.
         
         Thank you very much for your feedback!
   - type: textarea

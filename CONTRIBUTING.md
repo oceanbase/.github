@@ -54,6 +54,8 @@ For the format of pull request title and commit message, we recommend to use [co
 
 If you need to update your pull request, just add new commits to the branch and push it to your fork repository, then the pull request will be updated automatically.
 
-### Communication
+## Communication
 
-We will hold developer meetings regularly, you can subscribe this [thread](https://github.com/oceanbase/oceanbase/issues/1368) for update.
+Please feel free to contact to the [community](https://github.com/oceanbase/oceanbase#community).
+
+We hold developer meetings regularly, you can subscribe this [thread](https://github.com/oceanbase/oceanbase/issues/1368) for update.

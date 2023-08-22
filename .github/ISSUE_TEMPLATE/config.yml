@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: OceanBase Forum(Chinese)
+  - name: OceanBase Forum (Chinese)
     url: https://ask.oceanbase.com
-    about: Please ask and answer questions in our forum.
+    about: Ask questions in our official forum.
   - name: OceanBase Slack
     url: https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw
-    about: Ask questions in our user group.
+    about: Ask questions in our Slack user group.

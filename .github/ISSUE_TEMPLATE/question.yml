@@ -1,0 +1,20 @@
+name: 🙋 Question
+description: I have a question.
+title: "[Question]: "
+labels: [ "type: question" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this issue is encountered for the first time.
+        
+        If the question is concise and probably has a short answer, asking it in [community Slack](https://join.slack.com/t/oceanbase/shared_invite/zt-1e25oz3ol-lJ6YNqPHaKwY_mhhioyEuw).
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: Thanks for completing our form!

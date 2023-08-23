@@ -1,0 +1,50 @@
+name: 🐞 Bug Report
+description: Create a report to help us improve
+title: "[Bug]: "
+labels: [ "type: bug" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this issue is encountered for the first time.
+        
+        Thank you very much for your feedback!
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of bug.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Environment
+      description: Please provide the version number or commit id of this project.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Fast reproduce steps
+      description: Steps to reproduce the behavior.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What is the result? picture is allowed.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: Thanks for completing our form!

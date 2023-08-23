@@ -1,0 +1,32 @@
+name: 📑 Documentation Related
+description: Suggest an improvement or report a bug for the documentation.
+title: "[Doc]: "
+labels: [ "type: documentation" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this issue is encountered for the first time.
+        
+        Thank you very much for your feedback!
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Documentation links
+      description: Please provide the related links of this documentation issue.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: Thanks for completing our form!

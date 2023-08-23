@@ -34,13 +34,17 @@ Before you start development on the project, we recommend you to raise an issue 
 
 ##### Help Wanted / Good First Issues
 
-To identify issues that are specifically groomed for new contributors, we use the `help wanted` and `good first issue` labels. You can check that on the issues page.
+To identify issues that are specifically groomed for new contributors, we use the `help wanted` and `good first issue` labels. You can choose an issue with these tags and make your first contribution.
 
-#### Fork and Develop
+#### Fork
 
 Fork the project on GitHub and clone your fork locally, see [GitHub docs](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for details.
 
-Please reference the development guide in the project repository to set up your environment. 
+#### Develop
+
+For developers who want to contribute to OceanBase database kernel code, you can refer to the [development guide](https://github.com/oceanbase/oceanbase/blob/master/docs/README.md).
+
+Please others, you can follow the documentation in the repository you want to contribute.
 
 You can also refer to our [documentation website](https://en.oceanbase.com/docs) for more information.
 

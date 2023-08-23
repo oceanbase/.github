@@ -1,33 +1,12 @@
 <!--
-Thank you for contributing to **OceanBase**! 
-
-**If this pull request have a significant impact, please make sure you have discussed with OceanBase group.**
+Thank you for contributing to OceanBase! 
+Please feel free to ping the maintainers for the review!
 -->
 
-### Task Description
+## Description
 
 <!--
-The problem you resolved by this pull request.
-You can link the issue via the "close #xxx" or "ref #xxx".
--->
-
-### Solution Description
-
-<!-- Please clearly and consice descipt the solution. -->
-
-### Passed Regressions
-
-<!-- Unittest, mysql test or test it manually? -->
-
-### Upgrade Compatibility
-
-<!-- Please make sure this is compatible with old version or you should give us upgrading solution. -->
-
-### Other Information
-
-<!-- Any information helping to review this pull request. -->
-
-### Release Note
-<!--
-A concise release note can help users to understand how your pull request makes difference.
+Please clearly and concisely describe this pull request.
+If this pull request has a significant impact, please make sure you have discussed with the community.
+If this pull request resolves an issue, please link the issue via "close #xxx" or "fix #xxx".
 -->

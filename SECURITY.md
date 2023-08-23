@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Please contact open_contact@oceanbase.com and we usually respond in 24 hours.
+Please contact open_security@oceanbase.com and we usually respond in 24 hours.

@@ -58,9 +58,11 @@ There is a pull request template for repositories in the community, you need to 
 
 #### 5. Code Review
 
-After the pull request is submitted, other developers in the community will review it. If you need to update the code corresponding to the pull request, please directly add a new commit to the corresponding branch, and push it to your fork repository, then the pull request will be automatically updated.
+After the pull request is submitted, other developers in the community will review it. Some repositories also have CI (continuous integration) processes for compiling, unit testing, etc. You need to pay attention to the CI results, and if errors occur, please fix them in time.
 
-After the review is completed, your pull request will be merged into the main repository. Now you have completed a contribution to the OceanBase community.
+If you need to update the code corresponding to the pull request, please directly add a new commit to the corresponding branch, and push it to your fork repository, then the pull request will be automatically updated.
+
+When the review is completed and the CI has passed, your pull request will be merged into the main repository. At this point, you have completed a contribution to the OceanBase community.
 
 ## Communication
 

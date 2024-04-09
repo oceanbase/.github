@@ -33,7 +33,7 @@ _For OceanBase:_
 - Unless expressly permitted, refrain from conducting any activities that could potentially impact the integrity or availability of OceanBase systems. Should service performance deterioration or inadvertent non-compliance or service interruption occur during the course of research, cease the use of any automation tools and report the incident immediately.
 
 **Response Process**<br />
-![process](./images/security-process.png)
+![process](./images/security-process.jpg)
 
 **Assessment Criteria**<br />Vulnerability rating is based on the standards of CVSS 4.0, maintained by the international security organization FIRST, which provides a quantitative scoring mechanism for vulnerabilities through multiple dimensions and classifies the severity of vulnerabilities into categories (Critical, High, Medium, Low) according to the scores.<br />**Assessment Principles**
 
